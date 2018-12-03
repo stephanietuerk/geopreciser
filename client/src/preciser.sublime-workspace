@@ -1,0 +1,956 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"init",
+				"initializeData"
+			],
+			[
+				"gdelt",
+				"gdeltData"
+			],
+			[
+				"Data",
+				"DataSetSelector"
+			],
+			[
+				"renderDat",
+				"renderDataSelectionButton"
+			],
+			[
+				"CHRO",
+				"CHORO_MAP_LEVELS_LIST"
+			],
+			[
+				"choroMap",
+				"choroMapLevelsList"
+			],
+			[
+				"data",
+				"dataSource"
+			],
+			[
+				"set",
+				"setDataSource"
+			],
+			[
+				"box",
+				"boxUncStat"
+			],
+			[
+				"get",
+				"getBoxCount"
+			],
+			[
+				"rand",
+				"randomizePoints"
+			],
+			[
+				"t",
+				"toggleRandSelected"
+			],
+			[
+				"ren",
+				"renderRandomizing"
+			],
+			[
+				"handle",
+				"handleRandomize"
+			],
+			[
+				"randomize",
+				"randomizePoints"
+			],
+			[
+				"choro",
+				"choroDataLoaded"
+			],
+			[
+				"choroMal",
+				"choroMapLevelsList"
+			],
+			[
+				"Chro",
+				"ChoroLevelSelector"
+			],
+			[
+				"btn",
+				"btn-group"
+			],
+			[
+				"ini",
+				"initializeChorodata"
+			],
+			[
+				"randomized",
+				"randomizedPointsFinal"
+			],
+			[
+				"ra",
+				"randomizedPointsProm"
+			],
+			[
+				"random",
+				"randomizedPoints"
+			],
+			[
+				"ran",
+				"randPtsForLevelProm"
+			],
+			[
+				"imprec",
+				"imprecPtsRaw"
+			],
+			[
+				"im",
+				"imprecPts"
+			],
+			[
+				"admin",
+				"adminToGeoPMap"
+			],
+			[
+				"geo",
+				"geoPrecision"
+			],
+			[
+				"rad",
+				"randomizePoints"
+			],
+			[
+				"R",
+				"RandomizeData"
+			],
+			[
+				"randsForO",
+				"randsForPoly"
+			],
+			[
+				"poin",
+				"pointsWithinPolygon"
+			],
+			[
+				"is",
+				"isRandInPoly"
+			],
+			[
+				"make",
+				"makeRandPtsInPoly"
+			],
+			[
+				"randPts",
+				"randomPtsForCountry"
+			],
+			[
+				"bounds",
+				"boundsInIso3"
+			],
+			[
+				"render",
+				"renderActivateButton"
+			],
+			[
+				"rep",
+				"repSelectionsList"
+			],
+			[
+				"cho",
+				"choropleth"
+			],
+			[
+				"adi",
+				"adminLevels"
+			],
+			[
+				"Get",
+				"GetAdminLevel"
+			],
+			[
+				"renderChr",
+				"renderChoroOptions"
+			],
+			[
+				"choroMapL",
+				"choroMapLevelButtons"
+			],
+			[
+				"but",
+				"buttonGroup"
+			],
+			[
+				"hexesFor",
+				"hexesForRelevantBounds"
+			],
+			[
+				"hexes",
+				"hexesByBoundProbs"
+			],
+			[
+				"he",
+				"hexesByBoundObj2"
+			],
+			[
+				"Import",
+				"importBoundCollections"
+			],
+			[
+				"Imopr",
+				"importBoundCollection"
+			],
+			[
+				"bound",
+				"boundCollections"
+			],
+			[
+				"unique",
+				"uniqueBoundsInHex"
+			],
+			[
+				"CHORO_",
+				"CHORO_MAP_LEVEL"
+			],
+			[
+				"finalPol",
+				"finalPolysVals"
+			],
+			[
+				"setChoro",
+				"setChoroData"
+			],
+			[
+				"text",
+				"textToMapLevel"
+			],
+			[
+				"chor",
+				"choroMapLevel"
+			],
+			[
+				"polysTo",
+				"polysToFetch"
+			],
+			[
+				"fina",
+				"finalPolysAlmost"
+			],
+			[
+				"final",
+				"finalPolysObj"
+			],
+			[
+				"pro",
+				"processUpdatedPolys"
+			],
+			[
+				"up",
+				"updatedPolys"
+			],
+			[
+				"thisLeve",
+				"thisLevelReturnObj"
+			],
+			[
+				"newPolys",
+				"newPolysObj"
+			],
+			[
+				"CHORO",
+				"choroMapLevel"
+			],
+			[
+				"toR",
+				"toReturnObj"
+			],
+			[
+				"newLookLeve",
+				"newLookLevelPolysProm"
+			],
+			[
+				"newPol",
+				"newPolysArr"
+			],
+			[
+				"newPoly",
+				"newPolysArrObj"
+			],
+			[
+				"polys",
+				"polysWithRates"
+			],
+			[
+				"updatedPol",
+				"updatedPolysObjArr"
+			],
+			[
+				"upd",
+				"updatedPolysObjArr"
+			],
+			[
+				"modPolys",
+				"modPolysWithRates"
+			],
+			[
+				"mod",
+				"modPolysWithRates"
+			],
+			[
+				"lookL",
+				"lookLevelPolys"
+			],
+			[
+				"newLook",
+				"newLookLevelArr"
+			],
+			[
+				"look",
+				"lookDownLevel"
+			],
+			[
+				"to",
+				"toReturnObj"
+			],
+			[
+				"polyNa",
+				"polyNamesLLReduced"
+			],
+			[
+				"level",
+				"levelPolysUnflat"
+			],
+			[
+				"Impor",
+				"ImportBoundCollections"
+			],
+			[
+				"le",
+				"levelPolysProm"
+			],
+			[
+				"new",
+				"newLevelPolysProm"
+			],
+			[
+				"hexIndex",
+				"hexIndexObj"
+			],
+			[
+				"hexProbs",
+				"hexProbsByBound"
+			],
+			[
+				"events",
+				"eventsInDrawnBox"
+			],
+			[
+				"hexe",
+				"hexesByBoundProbs"
+			],
+			[
+				"on",
+				"onPanEnd"
+			],
+			[
+				"onP",
+				"onPanMove"
+			],
+			[
+				"prob",
+				"probForBound"
+			],
+			[
+				"cell",
+				"cellIndex"
+			],
+			[
+				"BoundAr",
+				"boundArea"
+			],
+			[
+				"bb",
+				"bboxPoly2"
+			],
+			[
+				"inter",
+				"interAreaSingle"
+			],
+			[
+				"poly1",
+				"poly1IsBiggerThanPoly2"
+			],
+			[
+				"Tur",
+				"TurfBbox"
+			],
+			[
+				"lok",
+				"lookLevelPolys"
+			],
+			[
+				"update",
+				"updateLookLevelPolys"
+			],
+			[
+				"process",
+				"processedPolysArr"
+			],
+			[
+				"lvl",
+				"lvl"
+			],
+			[
+				"newLoo",
+				"newLookLevelArr"
+			],
+			[
+				"add",
+				"addLookLevelPolys"
+			],
+			[
+				"temp",
+				"tempPolys"
+			],
+			[
+				"lookdow",
+				"lookDownLevels"
+			],
+			[
+				"poly",
+				"polysWithRates"
+			],
+			[
+				"map",
+				"mapLevelPolys"
+			],
+			[
+				"this",
+				"thisLevelPolys"
+			],
+			[
+				"modi",
+				"modifyPointsByChoroMapLevel"
+			],
+			[
+				"cou",
+				"countEventsPerBound"
+			],
+			[
+				"finalPolys",
+				"finalPolysObj"
+			],
+			[
+				"polyNames",
+				"polyNamesCurrLevel"
+			],
+			[
+				"curr",
+				"currLevel"
+			],
+			[
+				"thisL",
+				"thisLevelPolyNames"
+			],
+			[
+				"names",
+				"namesToPushDown"
+			],
+			[
+				"modified",
+				"modifiedCountriesList"
+			],
+			[
+				"imports",
+				"importSingleBounds"
+			],
+			[
+				"mapLevel",
+				"mapLevelBoundNames"
+			],
+			[
+				"country",
+				"countryList"
+			],
+			[
+				"import",
+				"importBoundaryNames"
+			],
+			[
+				"master",
+				"masterBoundsList"
+			],
+			[
+				"maste",
+				"masterBoundsList"
+			],
+			[
+				"boun",
+				"boundsListObj"
+			],
+			[
+				"bounts",
+				"boundsListObj"
+			],
+			[
+				"uni",
+				"uniqueCountryPolys"
+			],
+			[
+				"eve",
+				"eventsPerBoundExp"
+			],
+			[
+				"Rea",
+				"ReactAnimatedEllipsis"
+			],
+			[
+				"L",
+				"LoadingDots"
+			],
+			[
+				"_handle",
+				"_handleNewRepStyle"
+			],
+			[
+				"chro",
+				"chorodataLoaded"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "App.js",
+			"settings":
+			{
+				"buffer_size": 13442,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"jsP",
+				"JsPrettier: Format Code"
+			],
+			[
+				"Pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Add Repository"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Enable Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/stuerk/Documents/P.2019_BoundingUncertainty/05_WebDev/geoviz-app-build/client/src/components/deck/CustomMapControls.js",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/geoviz-app-build/client/src/components/controls/RandomizeControls.js",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/geoviz-app-build/client/src/components/controls/ControlPanel.js",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/geoviz-app-build/client/src/components/controls/FileSelector.js",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/geoviz-app-build/client/src/App.js",
+		"/Users/stuerk/Documents/GitHub/admin-boundaries/README.md",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/geoviz-app-build/client/src/components/controls/ChoroStatsPanel.js",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/geoviz-app-build/client/src/components/controls/PointStatsPanel.js",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/geoviz-app-build/client/src/components/controls/ChoroLevelSelector.js",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/geoviz-app-build/client/src/App.css",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/geoviz-app-build/client/src/components/representations/ChoroplethFunctions.js",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/geoviz-app-build/client/src/components/deck/CustomHexAggregator.js",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/geoviz-app-build/client/src/components/deck/CustomHexLayer.js",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/geoviz-app-build/client/src/components/deck/DeckGLOverlay.js",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/geoviz-app-build/client/src/components/representations/PointFunctions.js",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/geoviz-app-build/client/src/components/utils/MakePoly.js",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/geoviz-app-build/client/src/components/utils/CountEventsPerBound.js",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/geoviz-app-build/client/src/components/controls/ButtonSelector.js",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/geoviz-app-build/client/src/components/utils/RandomizeData.js",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/geoviz-app-build/client/src/components/utils/RandomizeLocation.js",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/geoviz-app-build/client/src/components/utils/ProbForPoly.js",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/geoviz-app-build/client/src/components/representations/CalculateHexagons.js",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/geoviz-app-build/client/src/components/utils/GetAdminLevel.js",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/geoviz-app-build/client/src/components/controls/RepSelector.js",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/geoviz-app-build/client/src/components/style.js",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/old/src copy/components/controls/ChoroStatsPanel.js",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/old/src copy/components/controls/RepSelector.js",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/old/src copy/components/controls/PointStatsPanel.js",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/geoviz-app-build/client/src/components/import/ImportSingleBounds.js",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/geoviz-app-build/client/src/components/import/ImportBoundCollections.js",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/geoviz-app-build/client/src/components/import/ImportBoundaryNames.js",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/geoviz-app-build/client/node_modules/regenerator-runtime/runtime.js",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/geoviz-app-build/client/src/components/import/importSingleBounds.js",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/geoviz-app-build/.gitignore",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/geoviz-app-build/package.json",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/geoviz-app-build/app.js",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/geoviz-app-build/client/.eslintrc.json",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/geoviz-app-build/.eslintrc",
+		"/Users/stuerk/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/stuerk/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/stuerk/package-lock.json",
+		"/Users/stuerk/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/geoviz-app-build/client/src/components/import/importBoundCollections.js",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/geoviz-app-build/routes/boundaryNames.js",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/geoviz-app-build/client/src/components/choro-stats.js",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/geoviz-app-build/client/src/components/hexbin-stats.js",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/geoviz-app-build/client/src/components/point-stats.js",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/geoviz-app-build/client/src/components/rep-selector.js",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/geoviz-app-build/client/src/components/control-panel.js",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/geoviz-app-build/client/package.json",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/geoviz-app-build/routes/boundaries.js",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/geoviz-app/client/package.json",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/geoviz-app/bin/www",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/geoviz-app-build/bin/www",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/geoviz-app build/client/package.json",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/geoviz-app build/bin/www",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/geoviz-app build/app.js",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/geoviz-app copy/routes/boundaries.js",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/GeoVizApp/create-react-app/src/App.css",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/GeoVizApp/create-react-app/src/components/text-panel.js",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/GeoVizApp/create-react-app/src/components/loading-dots.js",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/GeoVizApp/create-react-app/src/components/choro-stats.js",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/GeoVizApp/create-react-app/src/components/hexbin-stats.js",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/GeoVizApp/create-react-app/src/components/control-panel.js",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/GeoVizApp/create-react-app/src/components/point-stats.js",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/GeoVizApp/create-react-app/src/components/rep-selector.js",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/GeoVizApp/create-react-app/src/App.js",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/GeoVizApp/create-react-app/src/components/deckgl-overlay.js",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/react-backend copy/DEV_drawlayer/src/components/points-stats.js",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/react-backend copy/DEV_drawlayer/src/App.js",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/react-backend/DEV_drawlayer/src/components/choro-stats.js",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/react-backend copy/DEV_drawlayer/src/components/viz-controls.js",
+		"/Users/stuerk/Documents/GitHub/geoviz/ReactDev/react-backend/DEV_drawlayer/src/components/text-panel.js",
+		"/Users/stuerk/Documents/GitHub/geoviz/ReactDev/react-backend/DEV_drawlayer/src/components/my-map-controls.js",
+		"/Users/stuerk/Documents/GitHub/geoviz/ReactDev/react-backend/DEV_drawlayer/src/App.css",
+		"/Users/stuerk/Documents/GitHub/geoviz/ReactDev/react-backend/DEV_drawlayer/src/components/custom-hex-aggregator.js",
+		"/Users/stuerk/Documents/GitHub/geoviz/ReactDev/react-backend/DEV_drawlayer/src/components/custom-hex-layer.js",
+		"/Users/stuerk/Documents/GitHub/geoviz/ReactDev/react-backend/DEV_drawlayer/src/App.js",
+		"/Users/stuerk/Documents/GitHub/geoviz/ReactDev/react-backend/DEV_drawlayer/src/components/deckgl-overlay.js",
+		"/Users/stuerk/Documents/GitHub/geoviz/ReactDev/react-backend/app.js",
+		"/Users/stuerk/Documents/GitHub/geoviz/ReactDev/react-backend/routes/boundaries.js",
+		"/Users/stuerk/Documents/GitHub/geoviz/ReactDev/showdata/src/App.js",
+		"/Users/stuerk/Documents/P.2019_GeoViz/02_Data/GDELT/BBCMentions",
+		"/Users/stuerk/Documents/GitHub/geoviz/ReactDev/DEV_drawlayer/src/components/my-map-controls.js",
+		"/Users/stuerk/Documents/GitHub/geoviz/ReactDev/DEV_drawlayer/src/components/deckgl-overlay.js",
+		"/Users/stuerk/Documents/GitHub/geoviz/old/old - webdev/App_20180917.js",
+		"/Users/stuerk/Documents/GitHub/geoviz/ReactDev/showdata/src/index.js",
+		"/Users/stuerk/Documents/GitHub/geoviz/ReactDev/showdata/src/App.css",
+		"/Users/stuerk/Documents/GitHub/geoviz/ReactDev/showdata/src/data/boundaries/gadm36_SOM.json",
+		"/Users/stuerk/Documents/GitHub/geoviz/geoviz/src/react-map-base.js",
+		"/Users/stuerk/Documents/GitHub/geoviz/geoviz/src/components/deckgl-geojson-overlay.js",
+		"/Users/stuerk/Documents/GitHub/geoviz/geoviz/src/components/deckgl-hex-overlay.js",
+		"/Users/stuerk/Documents/GitHub/geoviz/geoviz/src/components/viewport.js",
+		"/Users/stuerk/Documents/GitHub/geoviz/test assets/index.html",
+		"/Users/stuerk/Documents/GitHub/geoviz/.git/config",
+		"/Users/stuerk/Documents/GitHub/config",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/20180717_d3mb_SSD_points.html",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/test_d3mb_impupoints.html",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/test_d3mb_SSD_points.html",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/test_d3mb_choro_SSD.html",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/test_d3mb.html",
+		"/Users/stuerk/config",
+		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/test_d3_choro.html",
+		"/Users/stuerk/Documents/P.2019_GeoViz/03_Coding/outputs/data/india_dot_raw_20180614_2338.json",
+		"/Users/stuerk/Documents/P.2019_GeoViz/03_Coding/South Sudan20180613_1912.json",
+		"/Users/stuerk/Desktop/opentabs",
+		"/Users/stuerk/Documents/GitHub/stephanietuerk.github.io/index.html",
+		"/Users/stuerk/Documents/GitHub/stephanietuerk.github.io/nav.css",
+		"/Users/stuerk/Documents/GitHub/stephanietuerk.github.io/nav.html",
+		"/Users/stuerk/Documents/GitHub/stephanietuerk.github.io/styles.css",
+		"/Users/stuerk/Documents/GitHub/stephanietuerk.github.io/abouttext.html",
+		"/Users/stuerk/Documents/GitHub/stephanietuerk.github.io/aboutme.html",
+		"/Users/stuerk/Documents/GitHub/stephanietuerk.github.io/beyondthecountyline/beyond.css",
+		"/Users/stuerk/Documents/GitHub/stephanietuerk.github.io/beyondthecountyline/beyond_d3.js",
+		"/Users/stuerk/Documents/GitHub/stephanietuerk.github.io/beyondthecountyline/beyond.html",
+		"/Users/stuerk/Documents/GitHub/stephanietuerk.github.io/flipthedistrict/flip_d3.js",
+		"/Users/stuerk/Documents/GitHub/stephanietuerk.github.io/flipthedistrict/flip.html",
+		"/Users/stuerk/Documents/GitHub/stephanietuerk.github.io/index2.html",
+		"/Users/stuerk/Downloads/fusion2017_spatstat_appendixB (3)/fusion.stan",
+		"/Users/stuerk/Documents/P.2019_GeoViz/03_Coding/web/smt_samples/CD_AllData.tsv",
+		"/Users/stuerk/Documents/SMT.Personal/Udemy/style.css",
+		"/Users/stuerk/Documents/SMT.Personal/Udemy/photoGrid.html",
+		"/Users/stuerk/Documents/SMT.Personal/Udemy/photos.css",
+		"/Users/stuerk/Downloads/10_Selector_Exercise_Solution/solution.css",
+		"/Users/stuerk/Documents/SMT.Personal/Udemy/tictactoe.html",
+		"/Users/stuerk/Downloads/data.js",
+		"/Users/stuerk/Downloads/fusion2017_spatstat_appendixB (3)/model_fit.R",
+		"/Users/stuerk/Documents/SMT.Personal/DataVizExperiments/index.html"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "App.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13442,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1300,
+								1300
+							]
+						],
+						"settings":
+						{
+							"SL.54.region_keys":
+							[
+								"SL.eslint.Gutter.|region.yellowish markup.warning.sublime_linter|dot",
+								"SL.eslint.Highlights.|81adcb2543646f083adb71fd8e190191a5bd4642efc1a82d3f693e6f12e5cebb|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|605b2340a3c572f0a0c6ea59ad7816517dfed1e23c106f5fcc0cda0a12670e10|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|d4f7af45603f9a20027255fbaa3de55b7e4c4144f20f8c29982bf5a26f6c150c|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|4908d79e8662c22e7fd5dd78f0c0b7dced8aaaa7dc8476f6b88e4d1319846030|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|e27bc42eec0d97b7c1eaa6d8250debd90020e632b99e6578357762c9e5c0d2b6|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|54ade22529c455e40b8f61150d7f144dad0ddeff2857a7a9795fe37b879e928b|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|12d2c71a0d34111b3bfa2cae951527eace16dee221e2b7faa38b79ebfc51eebf|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|3fe7fd1d333d13ca183d402922c0e6ce0bdd3ebf7a9b0a74098dc041623467eb|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|d90117586f5b703fc43e8129af44adc7d21e25220a84f81008eb7d35ad60689f|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|68dacf7c2aecf99e4767a3b4d0b9b66075c794c90d66b53ec48a865ff40e1cb0|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|2daafa3dfd0627b58ea59b6d73bcaaa62bcb287aa9ce2f9a531e6ed32a1d1653|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|55e4eacfa2f1c30a6911a0894b50b5fc98002163f7c3ab8d1534a28893658334|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|7ea308860d2b2e58e44bcc54167eab8b96c1de93fc1e78c124a8a840b1f8171d|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|1df6b2d8608d3cda04a299feef14e3fe106ffdff3cef1a78a10e891d97a9d222|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|d68e80ec6a523bba273ee7595fa348884e7cbf3b80793715d20e0afbd67b237b|region.yellowish markup.warning.sublime_linter|32",
+								"SL.eslint.Highlights.|b4e13b8f319c99ca7d6c92dde6f8e31959c4fd7cd4406256158eec4ae3f47a48|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|9278cb7b26438c4c7c3b7eb79e72e15052f4e3971c94bf0126c7aaf0019f4f3e|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|5ae94d8bf700bf54d704d2ecfd627e8946ca202d224400e95383849b62960295|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|a6adb0b7583456c9d904f51fdd06e9c43e0e4bcb5fcbc3c154958053b1301d7a|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"SL.eslint.Highlights.|c2b3555cb36814fbc1b4ed58089ecf99a621cfa6c06ed653a6268efccbc57eef|region.redish markup.error.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.eslint.Highlights.|099220b33232b74cce7ba5e2b37ebd703541d04b09631955bb55385c3562cda8|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|60e832ce1e09b51e9876a83fbf9720423ae76c35028e5489460baceeb9fed2e1|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|8e6421c91a08b21ce6f279728bb80d6283a826933b302f554eebad480fc637c0|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|2600fa01a481389bfee13589496bd5a981de1950ff70e7d3a8b8695aec661c46|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|618b35fd90108ce95814ff9460eb2ecce65ad2613a4fa537fb671b67e68022c9|region.yellowish markup.warning.sublime_linter|32",
+								"SL.eslint.Highlights.|280dd207656bca537539f2f8f01888051492ec75d9f540a8adad68f6c84cf215|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|e67539d1d6aa34030e1e04779180162bddc0f48deadd40cc6a24b9c6454c0b84|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|47fe448101c55dc991aecaa7daf76469b0f07a1788c091fc427d2568f876081b|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|c1ed6c7b3dfed1ce15ab7cf61e80536aa07574e14db7d0683a5c534b9d0a0d64|region.yellowish markup.warning.sublime_linter|32",
+								"SL.eslint.Highlights.|5e9b1013e8d73b04cb79dd8c938d8477f5ed13eb8458cf9c15042aebe56eb3ca|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|587991929732388ba242e58c14741cfaaeb583bc130efb368ffdcf7b26c7f66d|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|8c28c0cc259f455a14c55cb284a6e2d6aa75bc0aa08d733a442b9c9ee4913270|region.yellowish markup.warning.sublime_linter|32",
+								"SL.eslint.Highlights.|1f6296c106db56712868e334463e960f006fcfbcae24fabb337a14754a97f6a3|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|9b9a5781e5c1ee05b4244109d3da0ee6186b74ebdb0c5fce33c9a865c73caa30|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|24bdef5ed18405b7500930007ee66e62662d16723b7098f7e4226a57e9830289|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|351deb23c776b73fab9da57a0d5394e30d46aed7a97dc284a67ffdfb41d94837|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|d75b346f0369fbfeeed6b040ecef2941f45743f9ee958d52f3bd1967e5f4b3e9|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|767d9570ba0ba5fedfcc5015cf3d0c3a1b9c4d71088d03b52a68dddea350a3e2|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|c20407ba99d508dffc320dadf787adbcd4c99d12437be68107b5e7ed251036da|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|3ad14c25d0d5973651cb8b3783dcb9ce7fabc6b4dad5a87ebaa82be9ba36569d|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|dcc9e062d377c870f942f9bda78d7b37bb5593d85dd4a9dc7b34ae08ecfd8664|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|8e9d16e5a15d2b6d7054df6548b2dee20c6210303ca85fd911a721b0e08e4560|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|a0b5c2898a6b1050ef204fd980e2f3321c6b8c0196d82e9222365b10d29712d3|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|575c8a26b8139cd50127583fda7ca3d49ae509fee855b89baf13ca2a8a02962c|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|f72a915399e7e62f35e5584570931a82eadbe32012cbf781928aa734ac165219|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|27bac40d4744af09fd1ea39af51cb31b78332a28dab2cc8bfe9b61626f307148|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|a260479b691d57d29f4178618af8f14b47a3538dd0b0d9911cd6bec980fab404|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|26d3abb720bdca97fa69e12d93f32bb5efe3db1a7135dde7130d96456885ac76|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|c646962ced27d05223032169cd806485520edfee8ebc60a6370f5a7d2475cc75|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|76f87d0002121c52409eca464c02f16231fb3e3daa21afca4afdca9fefc8d529|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|a01c5993882a28153995daa2efb1e38a2668af1f503a0ffe894627b275b54cbe|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|d918634f068a45b4236e977dbbf5da1ce6afe42c944286664ec12293fe4e22b4|region.yellowish markup.warning.sublime_linter|32",
+								"SL.eslint.Highlights.|3d6197074982506a89d5d04f6917826eb5ac2e9918bde718970986c662f67e7a|region.yellowish markup.warning.sublime_linter|32",
+								"SL.eslint.Highlights.|6f4285f4dfbec1803375911d4b2421d9ef005c331ee9971fa8f954c0a338a8c4|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|8b556cee10a0721b6019290b60b2c8c762e82f7f0ab00cb3ec13caf1cb6fef86|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|56e124337c0a48913e97a14e8280dfb097f125d16a4f15a2cdaf537e45ae8b5a|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|338f9109a27df59fadcd7d5588d03f4a5ffec86ae41163b1377624be1594ebbb|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|0384323387d4b5915624e39e034c1c335a513cf10e017b3507ae5f1f0d083420|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|716163cb82f5ec514bc4d7767559867d4793e695d5c839d1900d183c8c3963e2|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|05d541c981fa7a21cda531d704953a9948050becf9e2a0187d533decb8bc4c98|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|5c9af59e928f622a1d1fb8bae88ea2ca151268f34c1fffd8891101f926ef224d|region.redish markup.error.sublime_linter|32"
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 169.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 226.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 108.0
+	},
+	"pinned_build_system": "",
+	"project": "preciser.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 238.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
