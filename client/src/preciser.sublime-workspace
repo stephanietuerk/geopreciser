@@ -524,7 +524,6 @@
 			"settings":
 			{
 				"buffer_size": 13442,
-				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		}
@@ -592,8 +591,13 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/Users/stuerk/Documents/GitHub/preciser/client/src"
+	],
 	"file_history":
 	[
+		"/Users/stuerk/Documents/GitHub/preciser/client/src/App.js",
 		"/Users/stuerk/Documents/P.2019_BoundingUncertainty/05_WebDev/geoviz-app-build/client/src/components/deck/CustomMapControls.js",
 		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/geoviz-app-build/client/src/components/controls/RandomizeControls.js",
 		"/Users/stuerk/Documents/P.2019_GeoViz/05_WebDev/geoviz-app-build/client/src/components/controls/ControlPanel.js",
@@ -720,8 +724,7 @@
 		"/Users/stuerk/Downloads/10_Selector_Exercise_Solution/solution.css",
 		"/Users/stuerk/Documents/SMT.Personal/Udemy/tictactoe.html",
 		"/Users/stuerk/Downloads/data.js",
-		"/Users/stuerk/Downloads/fusion2017_spatstat_appendixB (3)/model_fit.R",
-		"/Users/stuerk/Documents/SMT.Personal/DataVizExperiments/index.html"
+		"/Users/stuerk/Downloads/fusion2017_spatstat_appendixB (3)/model_fit.R"
 	],
 	"find":
 	{
@@ -762,7 +765,7 @@
 				{
 					"buffer": 0,
 					"file": "App.js",
-					"semi_transient": false,
+					"semi_transient": true,
 					"settings":
 					{
 						"buffer_size": 13442,
@@ -772,13 +775,13 @@
 						"selection":
 						[
 							[
-								1300,
-								1300
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"SL.54.region_keys":
+							"SL.57.region_keys":
 							[
 								"SL.eslint.Gutter.|region.yellowish markup.warning.sublime_linter|dot",
 								"SL.eslint.Highlights.|81adcb2543646f083adb71fd8e190191a5bd4642efc1a82d3f693e6f12e5cebb|region.redish markup.error.sublime_linter|32",
